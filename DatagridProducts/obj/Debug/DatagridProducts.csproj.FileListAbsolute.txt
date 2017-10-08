@@ -1,0 +1,19 @@
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\DatagridProducts\DatagridProducts\bin\Debug\DatagridProducts.exe.config
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\DatagridProducts\DatagridProducts\bin\Debug\DatagridProducts.exe
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\DatagridProducts\DatagridProducts\bin\Debug\DatagridProducts.pdb
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.csprojResolveAssemblyReference.cache
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.Form1.resources
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.Properties.Resources.resources
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.csproj.GenerateResource.Cache
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.exe
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.pdb
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\bin\Debug\DatagridProducts.exe.config
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\bin\Debug\DatagridProducts.exe
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\bin\Debug\DatagridProducts.pdb
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.Form1.resources
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.Properties.Resources.resources
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.csproj.GenerateResource.Cache
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.exe
+C:\Users\Christopher\source\repos\AdvancedProgramming\DatagridProducts\DatagridProducts\obj\Debug\DatagridProducts.pdb
